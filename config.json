@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpncrypt",
+        "uuid": 23180703,
+        "checksum": "wduj8b"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
